@@ -1,0 +1,9 @@
+POST http://localhost:3001/add-new-post
+Content-Type: application/json
+
+{
+    "name":"Keshabh Kedia",
+    "reg_no":"201900185",
+    "marks":50
+}
+
